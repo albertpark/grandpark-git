@@ -2,7 +2,7 @@
 
 Enjoy your git and practice them daily!
 
-Repository and mirrors:
+Repository and mirrors:  
 - Github: [grandpark-git][github]  
 - Bitbucket: [grandpark-git][bitbuc]  
 - Gitlub: [grandpark-git][gitlab]  
