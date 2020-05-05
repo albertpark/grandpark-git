@@ -1,1 +1,3 @@
-play and learn about repositories today! 
+# Grand Park
+
+Enjoy your git and practice them daily!
